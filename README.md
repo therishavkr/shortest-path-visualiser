@@ -1,4 +1,4 @@
-# Shortest Path Benchmarker
+# PathIQ
 
 A full-stack pathfinding visualizer and benchmarker: a Python search engine
 implementing five classic graph-search algorithms (BFS, DFS, Dijkstra, Greedy
